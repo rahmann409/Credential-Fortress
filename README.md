@@ -1,6 +1,6 @@
 # Credential Fortress 🏰
 
-*Crafted by Raj - राजेन निर्मितम्*
+*Crafted by Nasiur - नसीउर द्वारा निर्मित*
 
 Welcome to **Credential Fortress**! Think of this as a safe, simulated training ground to learn about password security. 
 
@@ -111,7 +111,7 @@ Please use this software responsibly, legally, and purely for educational defens
 ---
 
 ## Legal Notice
-© 2026 Raj Kumar. All rights reserved.
+© 2026 Nasiur Rahman. All rights reserved.
 - **Copyrighted Material:** This toolkit is strictly protected under copyright law.
 - **Educational Use Only:** It is intended exclusively for controlled lab environments and simulations.
 - **Restrictions:** Unauthorized commercial use, redistribution, or modification of this toolkit without explicit written permission from the author is strictly prohibited. See the `LICENSE` file for full terms.
