@@ -1,0 +1,15 @@
+Copyright (c) 2026 Raj Kumar. All rights reserved.
+
+Credential Fortress is an educational, simulation-only toolkit.
+
+1. PERMITTED USE
+You are granted permission to use this software strictly for educational, training, and defensive simulation purposes in a controlled, authorized lab environment.
+
+2. PROHIBITED ACTIONS
+- Commercial use of this software is strictly prohibited.
+- Redistribution, sublicensing, or sharing of this software (in source or compiled form) without explicit written permission from the author is prohibited.
+- Modification, translation, or creation of derivative works without explicit written permission is prohibited.
+- Any use of this software to target, assess, or attack real-world production systems, networks, or non-consenting environments is strictly prohibited.
+
+3. DISCLAIMER OF LIABILITY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

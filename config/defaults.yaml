@@ -1,0 +1,14 @@
+simulation:
+  default_hash_rate: 1000000  # Hashes per second
+  default_algorithms: ["md5", "sha256", "bcrypt"]
+  dry_run_default: true
+
+ui:
+  theme: "dark"
+  show_quotes: true
+  banner_style: "standard"
+
+paths:
+  output_dir: "./output"
+  logs_dir: "./logs"
+  data_dir: "./data"
