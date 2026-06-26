@@ -45,14 +45,19 @@ First, make sure you have **Python 3.10 or newer** installed. It is highly recom
 
 **For Linux / macOS:**
 Open your terminal and run the following commands one by one:
-```bash
+
 # 1. Create a virtual environment named "venv"
+```bash
 python3 -m venv venv
+```
 
 # 2. Activate the virtual environment
+```bash
 source venv/bin/activate
+```
 
 # 3. Install the tool and all its dependencies
+```bash
 pip install -e .[dev]
 ```
 
