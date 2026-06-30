@@ -10,7 +10,7 @@ from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.lib import colors
 from credential_fortress.modules.safeguards import is_safe_path
 
-SANSKRIT_SIGNATURE = "Credential Fortress © 2026 – Crafted by Raj (राजेन निर्मितम्)"
+SANSKRIT_SIGNATURE = "Credential Fortress © 2026 – Nasiur Rahman"
 
 def generate_txt_report(results: List[Dict[str, Any]], target_path: str | Path) -> None:
     is_safe_path(target_path)
