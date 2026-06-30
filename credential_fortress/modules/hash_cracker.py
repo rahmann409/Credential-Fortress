@@ -1,4 +1,4 @@
-# © 2026 Raj Kumar. All rights reserved. Credential Fortress is an educational, simulation-only toolkit. Unauthorized use is prohibited.
+# © 2026 Nasiur Rahman. All rights reserved. Credential Fortress is an educational, simulation-only toolkit. Unauthorized use is prohibited.
 
 import time
 import hashlib
